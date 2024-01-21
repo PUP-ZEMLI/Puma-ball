@@ -1,0 +1,26 @@
+body {
+    font-family: sans-serif;
+}
+h1 {
+text-align: center;
+color: blueviolet;
+    }
+
+img {
+    border: 3px solid blueviolet;
+}
+
+h3 {
+    font-size:60px;
+    text-align: center;
+}
+
+h4 {
+    text-align: center;
+    color:blueviolet;
+    font-size: 25px;
+}
+
+h2 {
+    text-align: center;
+}
